@@ -32,8 +32,9 @@
 </br>
 
 <!-- BLOG-POST-LIST:START -->
-- [💫 Cómo integrar Google Analytics en NextJS para cumplir con la Ley de Protección de Datos ](https://dev.to/dubisdev/como-integrar-google-analytics-en-nextjs-para-cumplir-con-la-ley-de-proteccion-de-datos-4c1e)
-- [🔥 Connecting to MongoDB from ESB Mule ](https://dev.to/dubisdev/connecting-to-mongodb-from-esb-mule-4pa5)
+ - [💫 Cómo integrar Google Analytics en NextJS para cumplir con la Ley de Protección de Datos ](https://dev.to/dubisdev/como-integrar-google-analytics-en-nextjs-para-cumplir-con-la-ley-de-proteccion-de-datos-4c1e) <br/> 
+
+ - [🔥 Connecting to MongoDB from ESB Mule ](https://dev.to/dubisdev/connecting-to-mongodb-from-esb-mule-4pa5) <br/> 
 <!-- BLOG-POST-LIST:END -->
 </details>
 
