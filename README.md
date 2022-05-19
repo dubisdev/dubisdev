@@ -25,23 +25,24 @@
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-6f7580?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <br/>
 </details>
 
 <details>
 <summary>📚 Some posts</summary>
-</br>
 
 <!-- BLOG-POST-LIST:START -->
  - [💫 Cómo integrar Google Analytics en NextJS para cumplir con la Ley de Protección de Datos ](https://dev.to/dubisdev/como-integrar-google-analytics-en-nextjs-para-cumplir-con-la-ley-de-proteccion-de-datos-4c1e) <br/> 
 
  - [🔥 Connecting to MongoDB from ESB Mule ](https://dev.to/dubisdev/connecting-to-mongodb-from-esb-mule-4pa5) <br/> 
 <!-- BLOG-POST-LIST:END -->
+
 </details>
 
 <details>
 <summary>⚡ Recent Activity</summary>
-</br>
-
+<br/>
+  
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#557](https://github.com/cerebroapp/cerebro/pull/557) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 2. 🗣 Commented on [#12](https://github.com/dubisdev/cerebro-todoist/issues/12) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
