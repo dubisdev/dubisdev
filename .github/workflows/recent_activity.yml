@@ -1,8 +1,8 @@
-name: Update Recent Activity
+name: Update Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,19 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Update GH status
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Update Todoist Status
+        uses: abhisheknaiidu/todoist-readme@master
+        with:
+          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
+          PREMIUM: ""
+
+      - name: Update dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/dubisdev"
+          template: "$newline - [$randomEmoji(💯,🔥,💫,🚀) $title ]($url) <br/> $newline"
