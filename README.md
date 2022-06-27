@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#559](https://github.com/cerebroapp/cerebro/issues/559) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. ❌ Closed PR [#557](https://github.com/cerebroapp/cerebro/pull/557) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-3. 💪 Opened PR [#559](https://github.com/cerebroapp/cerebro/pull/559) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. 💪 Opened PR [#1](https://github.com/gass-git/mechanised/pull/1) in [gass-git/mechanised](https://github.com/gass-git/mechanised)
-5. 🗣 Commented on [#60449](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/60449) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. 🎉 Merged PR [#1](https://github.com/dubisdev/cerebro/pull/1) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
+2. 💪 Opened PR [#1](https://github.com/dubisdev/cerebro/pull/1) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
+3. 🗣 Commented on [#559](https://github.com/cerebroapp/cerebro/issues/559) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+4. ❌ Closed PR [#557](https://github.com/cerebroapp/cerebro/pull/557) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+5. 💪 Opened PR [#559](https://github.com/cerebroapp/cerebro/pull/559) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
