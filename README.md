@@ -47,10 +47,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#559](https://github.com/cerebroapp/cerebro/issues/559) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. 🎉 Merged PR [#2](https://github.com/dubisdev/cerebro/pull/2) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
-3. 💪 Opened PR [#2](https://github.com/dubisdev/cerebro/pull/2) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
-4. 🎉 Merged PR [#1](https://github.com/dubisdev/cerebro/pull/1) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
-5. 💪 Opened PR [#1](https://github.com/dubisdev/cerebro/pull/1) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
+2. 💪 Opened PR [#5](https://github.com/cerebroapp/cerebro-ui/pull/5) in [cerebroapp/cerebro-ui](https://github.com/cerebroapp/cerebro-ui)
+3. 🗣 Commented on [#559](https://github.com/cerebroapp/cerebro/issues/559) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+4. 🎉 Merged PR [#2](https://github.com/dubisdev/cerebro/pull/2) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
+5. 💪 Opened PR [#2](https://github.com/dubisdev/cerebro/pull/2) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
