@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#559](https://github.com/cerebroapp/cerebro/issues/559) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+1. ❗️ Closed issue [#2](https://github.com/dubisdev/cerebro-command-router/issues/2) in [dubisdev/cerebro-command-router](https://github.com/dubisdev/cerebro-command-router)
 2. 🗣 Commented on [#559](https://github.com/cerebroapp/cerebro/issues/559) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 3. 🗣 Commented on [#559](https://github.com/cerebroapp/cerebro/issues/559) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. 🗣 Commented on [#11](https://github.com/cerebroapp/cerebro-basic-apps/issues/11) in [cerebroapp/cerebro-basic-apps](https://github.com/cerebroapp/cerebro-basic-apps)
-5. 💪 Opened PR [#11](https://github.com/cerebroapp/cerebro-basic-apps/pull/11) in [cerebroapp/cerebro-basic-apps](https://github.com/cerebroapp/cerebro-basic-apps)
+4. 🗣 Commented on [#559](https://github.com/cerebroapp/cerebro/issues/559) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+5. 🗣 Commented on [#11](https://github.com/cerebroapp/cerebro-basic-apps/issues/11) in [cerebroapp/cerebro-basic-apps](https://github.com/cerebroapp/cerebro-basic-apps)
 <!--END_SECTION:activity-->
 
 </details>
