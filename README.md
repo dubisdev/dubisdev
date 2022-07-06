@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/AddToDoist/AddToDoist/issues/3) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
-2. ❗️ Closed issue [#2](https://github.com/AddToDoist/AddToDoist/issues/2) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
-3. 🗣 Commented on [#2](https://github.com/AddToDoist/AddToDoist/issues/2) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
-4. ❗️ Opened issue [#2](https://github.com/AddToDoist/AddToDoist/issues/2) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
-5. ❗️ Closed issue [#2](https://github.com/dubisdev/cerebro-command-router/issues/2) in [dubisdev/cerebro-command-router](https://github.com/dubisdev/cerebro-command-router)
+1. ❗️ Closed issue [#3](https://github.com/AddToDoist/AddToDoist/issues/3) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
+2. ❗️ Opened issue [#3](https://github.com/AddToDoist/AddToDoist/issues/3) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
+3. ❗️ Closed issue [#2](https://github.com/AddToDoist/AddToDoist/issues/2) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
+4. 🗣 Commented on [#2](https://github.com/AddToDoist/AddToDoist/issues/2) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
+5. ❗️ Opened issue [#2](https://github.com/AddToDoist/AddToDoist/issues/2) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
 <!--END_SECTION:activity-->
 
 </details>
