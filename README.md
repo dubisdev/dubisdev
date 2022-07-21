@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/dubisdev/vscode-launcher/issues/2) in [dubisdev/vscode-launcher](https://github.com/dubisdev/vscode-launcher)
-2. ❗️ Opened issue [#2](https://github.com/dubisdev/vscode-launcher/issues/2) in [dubisdev/vscode-launcher](https://github.com/dubisdev/vscode-launcher)
-3. ❗️ Opened issue [#6](https://github.com/AddToDoist/AddToDoist/issues/6) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
-4. ❗️ Opened issue [#561](https://github.com/cerebroapp/cerebro/issues/561) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-5. 🗣 Commented on [#201](https://github.com/cerebroapp/cerebro/issues/201) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+1. 💪 Opened PR [#566](https://github.com/cerebroapp/cerebro/pull/566) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+2. ❗️ Closed issue [#2](https://github.com/dubisdev/vscode-launcher/issues/2) in [dubisdev/vscode-launcher](https://github.com/dubisdev/vscode-launcher)
+3. ❗️ Opened issue [#2](https://github.com/dubisdev/vscode-launcher/issues/2) in [dubisdev/vscode-launcher](https://github.com/dubisdev/vscode-launcher)
+4. ❗️ Opened issue [#6](https://github.com/AddToDoist/AddToDoist/issues/6) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
+5. ❗️ Opened issue [#561](https://github.com/cerebroapp/cerebro/issues/561) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
