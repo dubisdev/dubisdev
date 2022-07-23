@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#512](https://github.com/cerebroapp/cerebro/issues/512) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. 💪 Opened PR [#4](https://github.com/puyt/cerebro-snippets/pull/4) in [puyt/cerebro-snippets](https://github.com/puyt/cerebro-snippets)
-3. 🗣 Commented on [#567](https://github.com/cerebroapp/cerebro/issues/567) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. 💪 Opened PR [#566](https://github.com/cerebroapp/cerebro/pull/566) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-5. ❗️ Closed issue [#2](https://github.com/dubisdev/vscode-launcher/issues/2) in [dubisdev/vscode-launcher](https://github.com/dubisdev/vscode-launcher)
+1. 💪 Opened PR [#568](https://github.com/cerebroapp/cerebro/pull/568) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+2. 🗣 Commented on [#512](https://github.com/cerebroapp/cerebro/issues/512) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+3. 💪 Opened PR [#4](https://github.com/puyt/cerebro-snippets/pull/4) in [puyt/cerebro-snippets](https://github.com/puyt/cerebro-snippets)
+4. 🗣 Commented on [#567](https://github.com/cerebroapp/cerebro/issues/567) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+5. 💪 Opened PR [#566](https://github.com/cerebroapp/cerebro/pull/566) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
