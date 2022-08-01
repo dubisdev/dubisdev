@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dubisdev/cerebro/pull/1) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
-2. 💪 Opened PR [#1](https://github.com/dubisdev/cerebro/pull/1) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
-3. 💪 Opened PR [#569](https://github.com/cerebroapp/cerebro/pull/569) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. ❗️ Opened issue [#1](https://github.com/cerebroapp/cerebroapp-website/issues/1) in [cerebroapp/cerebroapp-website](https://github.com/cerebroapp/cerebroapp-website)
-5. 🗣 Commented on [#1](https://github.com/cerebroapp/cerebro-fix-path/issues/1) in [cerebroapp/cerebro-fix-path](https://github.com/cerebroapp/cerebro-fix-path)
+1. 🎉 Merged PR [#2](https://github.com/dubisdev/cerebro/pull/2) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
+2. 💪 Opened PR [#2](https://github.com/dubisdev/cerebro/pull/2) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
+3. 🎉 Merged PR [#1](https://github.com/dubisdev/cerebro/pull/1) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
+4. 💪 Opened PR [#1](https://github.com/dubisdev/cerebro/pull/1) in [dubisdev/cerebro](https://github.com/dubisdev/cerebro)
+5. 💪 Opened PR [#569](https://github.com/cerebroapp/cerebro/pull/569) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
