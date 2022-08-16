@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/AddToDoist/AddToDoist/issues/7) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
-2. 🗣 Commented on [#574](https://github.com/cerebroapp/cerebro/issues/574) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-3. 🗣 Commented on [#573](https://github.com/cerebroapp/cerebro/issues/573) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. 💪 Opened PR [#575](https://github.com/cerebroapp/cerebro/pull/575) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-5. 🗣 Commented on [#573](https://github.com/cerebroapp/cerebro/issues/573) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+1. ❗️ Closed issue [#7](https://github.com/AddToDoist/AddToDoist/issues/7) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
+2. ❗️ Opened issue [#7](https://github.com/AddToDoist/AddToDoist/issues/7) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
+3. 🗣 Commented on [#574](https://github.com/cerebroapp/cerebro/issues/574) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+4. 🗣 Commented on [#573](https://github.com/cerebroapp/cerebro/issues/573) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+5. 💪 Opened PR [#575](https://github.com/cerebroapp/cerebro/pull/575) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
