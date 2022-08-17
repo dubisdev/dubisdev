@@ -50,7 +50,7 @@
 2. 🗣 Commented on [#567](https://github.com/cerebroapp/cerebro/issues/567) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 3. 🗣 Commented on [#567](https://github.com/cerebroapp/cerebro/issues/567) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 4. 🗣 Commented on [#567](https://github.com/cerebroapp/cerebro/issues/567) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-5. ❗️ Closed issue [#7](https://github.com/AddToDoist/AddToDoist/issues/7) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
+5. 🗣 Commented on [#567](https://github.com/cerebroapp/cerebro/issues/567) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
