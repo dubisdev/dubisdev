@@ -47,10 +47,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#567](https://github.com/cerebroapp/cerebro/issues/567) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. ❗️ Closed issue [#7](https://github.com/AddToDoist/AddToDoist/issues/7) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
-3. ❗️ Opened issue [#7](https://github.com/AddToDoist/AddToDoist/issues/7) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
-4. 🗣 Commented on [#574](https://github.com/cerebroapp/cerebro/issues/574) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-5. 🗣 Commented on [#573](https://github.com/cerebroapp/cerebro/issues/573) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+2. 🗣 Commented on [#567](https://github.com/cerebroapp/cerebro/issues/567) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+3. 🗣 Commented on [#567](https://github.com/cerebroapp/cerebro/issues/567) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+4. ❗️ Closed issue [#7](https://github.com/AddToDoist/AddToDoist/issues/7) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
+5. ❗️ Opened issue [#7](https://github.com/AddToDoist/AddToDoist/issues/7) in [AddToDoist/AddToDoist](https://github.com/AddToDoist/AddToDoist)
 <!--END_SECTION:activity-->
 
 </details>
