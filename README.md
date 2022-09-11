@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#595](https://github.com/cerebroapp/cerebro/pull/595) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. ❗️ Closed issue [#9](https://github.com/AddTodoist/AddTodoist/issues/9) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-3. ❗️ Opened issue [#9](https://github.com/AddTodoist/AddTodoist/issues/9) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-4. ❗️ Closed issue [#8](https://github.com/AddTodoist/AddTodoist/issues/8) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-5. ❗️ Opened issue [#8](https://github.com/AddTodoist/AddTodoist/issues/8) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+1. 💪 Opened PR [#596](https://github.com/cerebroapp/cerebro/pull/596) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+2. 💪 Opened PR [#595](https://github.com/cerebroapp/cerebro/pull/595) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+3. ❗️ Closed issue [#9](https://github.com/AddTodoist/AddTodoist/issues/9) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+4. ❗️ Opened issue [#9](https://github.com/AddTodoist/AddTodoist/issues/9) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+5. ❗️ Closed issue [#8](https://github.com/AddTodoist/AddTodoist/issues/8) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
 <!--END_SECTION:activity-->
 
 </details>
