@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/cerebroapp/cerebro-devdocs/issues/4) in [cerebroapp/cerebro-devdocs](https://github.com/cerebroapp/cerebro-devdocs)
-2. ❗️ Opened issue [#91](https://github.com/chialab/rna/issues/91) in [chialab/rna](https://github.com/chialab/rna)
-3. 🗣 Commented on [#473](https://github.com/cerebroapp/cerebro/issues/473) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. ❗️ Closed issue [#473](https://github.com/cerebroapp/cerebro/issues/473) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-5. 🗣 Commented on [#5](https://github.com/cerebroapp/cerebro/issues/5) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+1. ❗️ Closed issue [#91](https://github.com/chialab/rna/issues/91) in [chialab/rna](https://github.com/chialab/rna)
+2. ❗️ Opened issue [#4](https://github.com/cerebroapp/cerebro-devdocs/issues/4) in [cerebroapp/cerebro-devdocs](https://github.com/cerebroapp/cerebro-devdocs)
+3. ❗️ Opened issue [#91](https://github.com/chialab/rna/issues/91) in [chialab/rna](https://github.com/chialab/rna)
+4. 🗣 Commented on [#473](https://github.com/cerebroapp/cerebro/issues/473) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+5. ❗️ Closed issue [#473](https://github.com/cerebroapp/cerebro/issues/473) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
