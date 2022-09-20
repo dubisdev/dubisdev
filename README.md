@@ -47,10 +47,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#604](https://github.com/cerebroapp/cerebro/issues/604) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. ❗️ Closed issue [#221](https://github.com/cerebroapp/cerebro/issues/221) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-3. 🗣 Commented on [#221](https://github.com/cerebroapp/cerebro/issues/221) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. ❗️ Closed issue [#462](https://github.com/cerebroapp/cerebro/issues/462) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-5. 🗣 Commented on [#462](https://github.com/cerebroapp/cerebro/issues/462) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+2. 🗣 Commented on [#604](https://github.com/cerebroapp/cerebro/issues/604) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+3. ❗️ Closed issue [#221](https://github.com/cerebroapp/cerebro/issues/221) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+4. 🗣 Commented on [#221](https://github.com/cerebroapp/cerebro/issues/221) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+5. ❗️ Closed issue [#462](https://github.com/cerebroapp/cerebro/issues/462) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
