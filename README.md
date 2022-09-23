@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#612](https://github.com/cerebroapp/cerebro/issues/612) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. 🗣 Commented on [#612](https://github.com/cerebroapp/cerebro/issues/612) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+1. 🗣 Commented on [#614](https://github.com/cerebroapp/cerebro/issues/614) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+2. ❗️ Closed issue [#612](https://github.com/cerebroapp/cerebro/issues/612) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 3. 🗣 Commented on [#612](https://github.com/cerebroapp/cerebro/issues/612) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 4. 🗣 Commented on [#612](https://github.com/cerebroapp/cerebro/issues/612) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-5. 💪 Opened PR [#613](https://github.com/cerebroapp/cerebro/pull/613) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+5. 🗣 Commented on [#612](https://github.com/cerebroapp/cerebro/issues/612) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
