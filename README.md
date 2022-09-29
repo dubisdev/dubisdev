@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/AddTodoist/AddTodoist/issues/15) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-2. 🗣 Commented on [#15](https://github.com/AddTodoist/AddTodoist/issues/15) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-3. ❗️ Opened issue [#15](https://github.com/AddTodoist/AddTodoist/issues/15) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-4. ❗️ Closed issue [#14](https://github.com/AddTodoist/AddTodoist/issues/14) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-5. ❗️ Opened issue [#14](https://github.com/AddTodoist/AddTodoist/issues/14) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+1. ❗️ Opened issue [#16](https://github.com/AddTodoist/AddTodoist/issues/16) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+2. ❗️ Closed issue [#15](https://github.com/AddTodoist/AddTodoist/issues/15) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+3. 🗣 Commented on [#15](https://github.com/AddTodoist/AddTodoist/issues/15) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+4. ❗️ Opened issue [#15](https://github.com/AddTodoist/AddTodoist/issues/15) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+5. ❗️ Closed issue [#14](https://github.com/AddTodoist/AddTodoist/issues/14) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
 <!--END_SECTION:activity-->
 
 </details>
