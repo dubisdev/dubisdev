@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/cerebroapp/search/issues/5) in [cerebroapp/search](https://github.com/cerebroapp/search)
-2. 🎉 Merged PR [#6](https://github.com/cerebroapp/search/pull/6) in [cerebroapp/search](https://github.com/cerebroapp/search)
-3. 💪 Opened PR [#6](https://github.com/cerebroapp/search/pull/6) in [cerebroapp/search](https://github.com/cerebroapp/search)
-4. ❗️ Opened issue [#5](https://github.com/cerebroapp/search/issues/5) in [cerebroapp/search](https://github.com/cerebroapp/search)
-5. ❗️ Opened issue [#16](https://github.com/AddTodoist/AddTodoist/issues/16) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+1. 💪 Opened PR [#19](https://github.com/AddTodoist/AddTodoist/pull/19) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+2. ❗️ Opened issue [#18](https://github.com/AddTodoist/AddTodoist/issues/18) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+3. ❗️ Opened issue [#17](https://github.com/AddTodoist/AddTodoist/issues/17) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+4. ❗️ Closed issue [#5](https://github.com/cerebroapp/search/issues/5) in [cerebroapp/search](https://github.com/cerebroapp/search)
+5. 🎉 Merged PR [#7](https://github.com/cerebroapp/search/pull/7) in [cerebroapp/search](https://github.com/cerebroapp/search)
 <!--END_SECTION:activity-->
 
 </details>
