@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2274](https://github.com/johannesjo/super-productivity/pull/2274) in [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
-2. 🗣 Commented on [#17](https://github.com/AddTodoist/AddTodoist/issues/17) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-3. ❗️ Reopened issue [#17](https://github.com/AddTodoist/AddTodoist/issues/17) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-4. 🗣 Commented on [#18](https://github.com/AddTodoist/AddTodoist/issues/18) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-5. ❗️ Closed issue [#17](https://github.com/AddTodoist/AddTodoist/issues/17) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+1. 🗣 Commented on [#2274](https://github.com/johannesjo/super-productivity/issues/2274) in [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
+2. 💪 Opened PR [#2274](https://github.com/johannesjo/super-productivity/pull/2274) in [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
+3. 🗣 Commented on [#17](https://github.com/AddTodoist/AddTodoist/issues/17) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+4. ❗️ Reopened issue [#17](https://github.com/AddTodoist/AddTodoist/issues/17) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+5. 🗣 Commented on [#18](https://github.com/AddTodoist/AddTodoist/issues/18) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
 <!--END_SECTION:activity-->
 
 </details>
