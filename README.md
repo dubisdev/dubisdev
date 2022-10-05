@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#382](https://github.com/PLhery/node-twitter-api-v2/pull/382) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
-2. 🗣 Commented on [#2274](https://github.com/johannesjo/super-productivity/issues/2274) in [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
-3. 💪 Opened PR [#2274](https://github.com/johannesjo/super-productivity/pull/2274) in [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
-4. 🗣 Commented on [#17](https://github.com/AddTodoist/AddTodoist/issues/17) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-5. ❗️ Reopened issue [#17](https://github.com/AddTodoist/AddTodoist/issues/17) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+1. 🗣 Commented on [#20](https://github.com/AddTodoist/AddTodoist/issues/20) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+2. ❗️ Opened issue [#20](https://github.com/AddTodoist/AddTodoist/issues/20) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+3. 💪 Opened PR [#382](https://github.com/PLhery/node-twitter-api-v2/pull/382) in [PLhery/node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
+4. 🗣 Commented on [#2274](https://github.com/johannesjo/super-productivity/issues/2274) in [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
+5. 💪 Opened PR [#2274](https://github.com/johannesjo/super-productivity/pull/2274) in [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
 <!--END_SECTION:activity-->
 
 </details>
