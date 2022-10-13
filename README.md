@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#616](https://github.com/cerebroapp/cerebro/pull/616) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. ❗️ Closed issue [#17](https://github.com/AddTodoist/AddTodoist/issues/17) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-3. ❗️ Closed issue [#20](https://github.com/AddTodoist/AddTodoist/issues/20) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-4. 🎉 Merged PR [#21](https://github.com/AddTodoist/AddTodoist/pull/21) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
-5. 💪 Opened PR [#21](https://github.com/AddTodoist/AddTodoist/pull/21) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+1. 🗣 Commented on [#617](https://github.com/cerebroapp/cerebro/issues/617) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+2. 💪 Opened PR [#616](https://github.com/cerebroapp/cerebro/pull/616) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+3. ❗️ Closed issue [#17](https://github.com/AddTodoist/AddTodoist/issues/17) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+4. ❗️ Closed issue [#20](https://github.com/AddTodoist/AddTodoist/issues/20) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+5. 🎉 Merged PR [#21](https://github.com/AddTodoist/AddTodoist/pull/21) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
 <!--END_SECTION:activity-->
 
 </details>
