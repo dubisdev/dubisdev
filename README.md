@@ -47,10 +47,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/cerebroapp/cerebro-ui/issues/8) in [cerebroapp/cerebro-ui](https://github.com/cerebroapp/cerebro-ui)
-2. 🗣 Commented on [#8](https://github.com/cerebroapp/cerebro-ui/issues/8) in [cerebroapp/cerebro-ui](https://github.com/cerebroapp/cerebro-ui)
-3. ❗️ Opened issue [#8](https://github.com/cerebroapp/cerebro-ui/issues/8) in [cerebroapp/cerebro-ui](https://github.com/cerebroapp/cerebro-ui)
-4. 🗣 Commented on [#602](https://github.com/cerebroapp/cerebro/issues/602) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-5. 🗣 Commented on [#617](https://github.com/cerebroapp/cerebro/issues/617) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+2. 💪 Opened PR [#9](https://github.com/cerebroapp/cerebro-ui/pull/9) in [cerebroapp/cerebro-ui](https://github.com/cerebroapp/cerebro-ui)
+3. 🗣 Commented on [#8](https://github.com/cerebroapp/cerebro-ui/issues/8) in [cerebroapp/cerebro-ui](https://github.com/cerebroapp/cerebro-ui)
+4. 🗣 Commented on [#8](https://github.com/cerebroapp/cerebro-ui/issues/8) in [cerebroapp/cerebro-ui](https://github.com/cerebroapp/cerebro-ui)
+5. ❗️ Opened issue [#8](https://github.com/cerebroapp/cerebro-ui/issues/8) in [cerebroapp/cerebro-ui](https://github.com/cerebroapp/cerebro-ui)
 <!--END_SECTION:activity-->
 
 </details>
