@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#602](https://github.com/cerebroapp/cerebro/issues/602) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. 🗣 Commented on [#602](https://github.com/cerebroapp/cerebro/issues/602) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-3. 💪 Opened PR [#618](https://github.com/cerebroapp/cerebro/pull/618) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. 🗣 Commented on [#10](https://github.com/cerebroapp/cerebro-ui/issues/10) in [cerebroapp/cerebro-ui](https://github.com/cerebroapp/cerebro-ui)
-5. 🗣 Commented on [#8](https://github.com/cerebroapp/cerebro-ui/issues/8) in [cerebroapp/cerebro-ui](https://github.com/cerebroapp/cerebro-ui)
+1. ❗️ Opened issue [#15](https://github.com/abdmmar/wc-toast/issues/15) in [abdmmar/wc-toast](https://github.com/abdmmar/wc-toast)
+2. ❗️ Closed issue [#602](https://github.com/cerebroapp/cerebro/issues/602) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+3. 🗣 Commented on [#602](https://github.com/cerebroapp/cerebro/issues/602) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+4. 💪 Opened PR [#618](https://github.com/cerebroapp/cerebro/pull/618) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+5. 🗣 Commented on [#10](https://github.com/cerebroapp/cerebro-ui/issues/10) in [cerebroapp/cerebro-ui](https://github.com/cerebroapp/cerebro-ui)
 <!--END_SECTION:activity-->
 
 </details>
