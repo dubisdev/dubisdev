@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/abdmmar/wc-toast/pull/16) in [abdmmar/wc-toast](https://github.com/abdmmar/wc-toast)
-2. ❗️ Opened issue [#15](https://github.com/abdmmar/wc-toast/issues/15) in [abdmmar/wc-toast](https://github.com/abdmmar/wc-toast)
-3. ❗️ Closed issue [#602](https://github.com/cerebroapp/cerebro/issues/602) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. 🗣 Commented on [#602](https://github.com/cerebroapp/cerebro/issues/602) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-5. 💪 Opened PR [#618](https://github.com/cerebroapp/cerebro/pull/618) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+1. 🗣 Commented on [#7](https://github.com/cerebroapp/cerebro-mac-apps/issues/7) in [cerebroapp/cerebro-mac-apps](https://github.com/cerebroapp/cerebro-mac-apps)
+2. 💪 Opened PR [#16](https://github.com/abdmmar/wc-toast/pull/16) in [abdmmar/wc-toast](https://github.com/abdmmar/wc-toast)
+3. ❗️ Opened issue [#15](https://github.com/abdmmar/wc-toast/issues/15) in [abdmmar/wc-toast](https://github.com/abdmmar/wc-toast)
+4. ❗️ Closed issue [#602](https://github.com/cerebroapp/cerebro/issues/602) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+5. 🗣 Commented on [#602](https://github.com/cerebroapp/cerebro/issues/602) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
