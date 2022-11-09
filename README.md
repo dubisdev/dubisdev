@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#620](https://github.com/cerebroapp/cerebro/pull/620) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. 🎉 Merged PR [#619](https://github.com/cerebroapp/cerebro/pull/619) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-3. 🗣 Commented on [#552](https://github.com/cerebroapp/cerebro/issues/552) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. 🗣 Commented on [#410](https://github.com/themesberg/flowbite-react/issues/410) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
-5. 🗣 Commented on [#7](https://github.com/cerebroapp/cerebro-mac-apps/issues/7) in [cerebroapp/cerebro-mac-apps](https://github.com/cerebroapp/cerebro-mac-apps)
+1. ❗️ Closed issue [#587](https://github.com/cerebroapp/cerebro/issues/587) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+2. 🗣 Commented on [#587](https://github.com/cerebroapp/cerebro/issues/587) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+3. ❗️ Reopened issue [#587](https://github.com/cerebroapp/cerebro/issues/587) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+4. ❗️ Closed issue [#587](https://github.com/cerebroapp/cerebro/issues/587) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+5. 💪 Opened PR [#620](https://github.com/cerebroapp/cerebro/pull/620) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
