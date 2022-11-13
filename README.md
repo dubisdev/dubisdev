@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/cerebroapp/cerebro-brew/issues/4) in [cerebroapp/cerebro-brew](https://github.com/cerebroapp/cerebro-brew)
-2. 🗣 Commented on [#4](https://github.com/cerebroapp/cerebro-brew/issues/4) in [cerebroapp/cerebro-brew](https://github.com/cerebroapp/cerebro-brew)
-3. 🗣 Commented on [#624](https://github.com/cerebroapp/cerebro/issues/624) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. ❗️ Closed issue [#285](https://github.com/cerebroapp/cerebro/issues/285) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-5. 🗣 Commented on [#285](https://github.com/cerebroapp/cerebro/issues/285) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+1. ❗️ Closed issue [#3](https://github.com/cerebroapp/cerebro-brew/issues/3) in [cerebroapp/cerebro-brew](https://github.com/cerebroapp/cerebro-brew)
+2. 🎉 Merged PR [#4](https://github.com/cerebroapp/cerebro-brew/pull/4) in [cerebroapp/cerebro-brew](https://github.com/cerebroapp/cerebro-brew)
+3. 🗣 Commented on [#4](https://github.com/cerebroapp/cerebro-brew/issues/4) in [cerebroapp/cerebro-brew](https://github.com/cerebroapp/cerebro-brew)
+4. 🗣 Commented on [#4](https://github.com/cerebroapp/cerebro-brew/issues/4) in [cerebroapp/cerebro-brew](https://github.com/cerebroapp/cerebro-brew)
+5. 🗣 Commented on [#4](https://github.com/cerebroapp/cerebro-brew/issues/4) in [cerebroapp/cerebro-brew](https://github.com/cerebroapp/cerebro-brew)
 <!--END_SECTION:activity-->
 
 </details>
