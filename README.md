@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#630](https://github.com/cerebroapp/cerebro/pull/630) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. 🗣 Commented on [#628](https://github.com/cerebroapp/cerebro/issues/628) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-3. 💪 Opened PR [#629](https://github.com/cerebroapp/cerebro/pull/629) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. ❗️ Closed issue [#626](https://github.com/cerebroapp/cerebro/issues/626) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-5. 🎉 Merged PR [#627](https://github.com/cerebroapp/cerebro/pull/627) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+1. ❗️ Closed issue [#164](https://github.com/cerebroapp/cerebro/issues/164) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+2. 🎉 Merged PR [#630](https://github.com/cerebroapp/cerebro/pull/630) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+3. ❗️ Closed issue [#628](https://github.com/cerebroapp/cerebro/issues/628) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+4. 🎉 Merged PR [#629](https://github.com/cerebroapp/cerebro/pull/629) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+5. 💪 Opened PR [#630](https://github.com/cerebroapp/cerebro/pull/630) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
