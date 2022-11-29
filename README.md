@@ -46,11 +46,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#634](https://github.com/cerebroapp/cerebro/pull/634) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. ❗️ Closed issue [#3](https://github.com/cerebroapp/cerebro-shell/issues/3) in [cerebroapp/cerebro-shell](https://github.com/cerebroapp/cerebro-shell)
-3. 🎉 Merged PR [#14](https://github.com/cerebroapp/cerebro-shell/pull/14) in [cerebroapp/cerebro-shell](https://github.com/cerebroapp/cerebro-shell)
-4. 🗣 Commented on [#14](https://github.com/cerebroapp/cerebro-shell/issues/14) in [cerebroapp/cerebro-shell](https://github.com/cerebroapp/cerebro-shell)
-5. 🗣 Commented on [#8](https://github.com/cerebroapp/cerebro-mac-apps/issues/8) in [cerebroapp/cerebro-mac-apps](https://github.com/cerebroapp/cerebro-mac-apps)
+1. ❗️ Opened issue [#23](https://github.com/AddTodoist/AddTodoist/issues/23) in [AddTodoist/AddTodoist](https://github.com/AddTodoist/AddTodoist)
+2. 🎉 Merged PR [#634](https://github.com/cerebroapp/cerebro/pull/634) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+3. ❗️ Closed issue [#3](https://github.com/cerebroapp/cerebro-shell/issues/3) in [cerebroapp/cerebro-shell](https://github.com/cerebroapp/cerebro-shell)
+4. 🎉 Merged PR [#14](https://github.com/cerebroapp/cerebro-shell/pull/14) in [cerebroapp/cerebro-shell](https://github.com/cerebroapp/cerebro-shell)
+5. 🗣 Commented on [#14](https://github.com/cerebroapp/cerebro-shell/issues/14) in [cerebroapp/cerebro-shell](https://github.com/cerebroapp/cerebro-shell)
 <!--END_SECTION:activity-->
 
 </details>
