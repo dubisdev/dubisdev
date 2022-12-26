@@ -44,11 +44,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/dubisdev/todoist-rest-client/pull/70) in [dubisdev/todoist-rest-client](https://github.com/dubisdev/todoist-rest-client)
-2. 💪 Opened PR [#70](https://github.com/dubisdev/todoist-rest-client/pull/70) in [dubisdev/todoist-rest-client](https://github.com/dubisdev/todoist-rest-client)
-3. 🎉 Merged PR [#18](https://github.com/dubisdev/cerebro-todoist/pull/18) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
-4. 🗣 Commented on [#18](https://github.com/dubisdev/cerebro-todoist/issues/18) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
-5. 💪 Opened PR [#639](https://github.com/cerebroapp/cerebro/pull/639) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+1. 🗣 Commented on [#512](https://github.com/cerebroapp/cerebro/issues/512) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+2. 🎉 Merged PR [#70](https://github.com/dubisdev/todoist-rest-client/pull/70) in [dubisdev/todoist-rest-client](https://github.com/dubisdev/todoist-rest-client)
+3. 💪 Opened PR [#70](https://github.com/dubisdev/todoist-rest-client/pull/70) in [dubisdev/todoist-rest-client](https://github.com/dubisdev/todoist-rest-client)
+4. 🎉 Merged PR [#18](https://github.com/dubisdev/cerebro-todoist/pull/18) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
+5. 🗣 Commented on [#18](https://github.com/dubisdev/cerebro-todoist/issues/18) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
 <!--END_SECTION:activity-->
 
 </details>
