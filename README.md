@@ -44,11 +44,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/waymondo/vscode-todoist/issues/22) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-2. 🗣 Commented on [#512](https://github.com/cerebroapp/cerebro/issues/512) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-3. 🗣 Commented on [#512](https://github.com/cerebroapp/cerebro/issues/512) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. 🎉 Merged PR [#70](https://github.com/dubisdev/todoist-rest-client/pull/70) in [dubisdev/todoist-rest-client](https://github.com/dubisdev/todoist-rest-client)
-5. 💪 Opened PR [#70](https://github.com/dubisdev/todoist-rest-client/pull/70) in [dubisdev/todoist-rest-client](https://github.com/dubisdev/todoist-rest-client)
+1. ❗️ Closed issue [#22](https://github.com/waymondo/vscode-todoist/issues/22) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+2. 🗣 Commented on [#22](https://github.com/waymondo/vscode-todoist/issues/22) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+3. ❗️ Opened issue [#22](https://github.com/waymondo/vscode-todoist/issues/22) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+4. 🗣 Commented on [#512](https://github.com/cerebroapp/cerebro/issues/512) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
+5. 🗣 Commented on [#512](https://github.com/cerebroapp/cerebro/issues/512) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
