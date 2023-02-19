@@ -44,11 +44,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/waymondo/vscode-todoist/issues/23) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-2. 💪 Opened PR [#121](https://github.com/tauri-apps/awesome-tauri/pull/121) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
-3. 💪 Opened PR [#1](https://github.com/hosein2398/react-textra/pull/1) in [hosein2398/react-textra](https://github.com/hosein2398/react-textra)
-4. ❗️ Closed issue [#22](https://github.com/waymondo/vscode-todoist/issues/22) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-5. 🗣 Commented on [#22](https://github.com/waymondo/vscode-todoist/issues/22) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+1. ❗️ Closed issue [#20](https://github.com/waymondo/vscode-todoist/issues/20) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+2. 🗣 Commented on [#20](https://github.com/waymondo/vscode-todoist/issues/20) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+3. ❗️ Opened issue [#23](https://github.com/waymondo/vscode-todoist/issues/23) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+4. 💪 Opened PR [#121](https://github.com/tauri-apps/awesome-tauri/pull/121) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
+5. 💪 Opened PR [#1](https://github.com/hosein2398/react-textra/pull/1) in [hosein2398/react-textra](https://github.com/hosein2398/react-textra)
 <!--END_SECTION:activity-->
 
 </details>
