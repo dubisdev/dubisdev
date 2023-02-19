@@ -44,11 +44,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/waymondo/vscode-todoist/issues/23) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-2. 🎉 Merged PR [#24](https://github.com/waymondo/vscode-todoist/pull/24) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-3. 💪 Opened PR [#24](https://github.com/waymondo/vscode-todoist/pull/24) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-4. ❗️ Closed issue [#20](https://github.com/waymondo/vscode-todoist/issues/20) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-5. 🗣 Commented on [#20](https://github.com/waymondo/vscode-todoist/issues/20) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+1. 💪 Opened PR [#26](https://github.com/waymondo/vscode-todoist/pull/26) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+2. ❗️ Closed issue [#23](https://github.com/waymondo/vscode-todoist/issues/23) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+3. 🎉 Merged PR [#24](https://github.com/waymondo/vscode-todoist/pull/24) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+4. 💪 Opened PR [#24](https://github.com/waymondo/vscode-todoist/pull/24) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+5. ❗️ Closed issue [#20](https://github.com/waymondo/vscode-todoist/issues/20) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
 <!--END_SECTION:activity-->
 
 </details>
