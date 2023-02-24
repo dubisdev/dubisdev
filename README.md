@@ -44,11 +44,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/tauri-apps/awesome-tauri/issues/121) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
-2. ❌ Closed PR [#25](https://github.com/waymondo/vscode-todoist/pull/25) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-3. ❗️ Closed issue [#9](https://github.com/waymondo/vscode-todoist/issues/9) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-4. 🗣 Commented on [#9](https://github.com/waymondo/vscode-todoist/issues/9) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-5. ❗️ Closed issue [#5](https://github.com/waymondo/vscode-todoist/issues/5) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+1. 💪 Opened PR [#38](https://github.com/spoo-bar/code-with-todoist/pull/38) in [spoo-bar/code-with-todoist](https://github.com/spoo-bar/code-with-todoist)
+2. 🗣 Commented on [#121](https://github.com/tauri-apps/awesome-tauri/issues/121) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
+3. ❌ Closed PR [#25](https://github.com/waymondo/vscode-todoist/pull/25) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+4. ❗️ Closed issue [#9](https://github.com/waymondo/vscode-todoist/issues/9) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+5. 🗣 Commented on [#9](https://github.com/waymondo/vscode-todoist/issues/9) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
 <!--END_SECTION:activity-->
 
 </details>
