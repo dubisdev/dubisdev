@@ -44,11 +44,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/spoo-bar/code-with-todoist/issues/38) in [spoo-bar/code-with-todoist](https://github.com/spoo-bar/code-with-todoist)
-2. 💪 Opened PR [#38](https://github.com/spoo-bar/code-with-todoist/pull/38) in [spoo-bar/code-with-todoist](https://github.com/spoo-bar/code-with-todoist)
-3. 🗣 Commented on [#121](https://github.com/tauri-apps/awesome-tauri/issues/121) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
-4. ❌ Closed PR [#25](https://github.com/waymondo/vscode-todoist/pull/25) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-5. ❗️ Closed issue [#9](https://github.com/waymondo/vscode-todoist/issues/9) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+1. 💪 Opened PR [#126](https://github.com/midudev/midu.dev/pull/126) in [midudev/midu.dev](https://github.com/midudev/midu.dev)
+2. 🗣 Commented on [#38](https://github.com/spoo-bar/code-with-todoist/issues/38) in [spoo-bar/code-with-todoist](https://github.com/spoo-bar/code-with-todoist)
+3. 💪 Opened PR [#38](https://github.com/spoo-bar/code-with-todoist/pull/38) in [spoo-bar/code-with-todoist](https://github.com/spoo-bar/code-with-todoist)
+4. 🗣 Commented on [#121](https://github.com/tauri-apps/awesome-tauri/issues/121) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
+5. ❌ Closed PR [#25](https://github.com/waymondo/vscode-todoist/pull/25) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
 <!--END_SECTION:activity-->
 
 </details>
