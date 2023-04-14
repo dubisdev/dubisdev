@@ -10,11 +10,12 @@
 </details>
 
 <details>
-<summary>🚀 Tecnology Stack</summary>
+<summary>🚀 My Tecnology Stack</summary>
 </br>
 <p align="center">
   <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -22,14 +23,23 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-3d82ff?style=flat-square&logo=PostgreSQL&logoColor=white" /> 
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-6f7580?style=flat-square&logo=prisma&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-6f7580?style=flat-square&logo=prisma&logoColor=white" /> 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <br/>
 </details>
 
 <details>
-<summary>📚 Some posts</summary>
+<summary>✨ My Apps</summary>
+<br/>
+
+- [**RunMath**](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows
+- [**Light Draw**](https://github.com/dubisdev/lightdraw) - Lightweight drawing app for Windows
+- [**QuickGPT**](https://github.com/dubisdev/QuickGPT) - AI assistant based on GPT models for Windows
+
+</details>
+
+<details>
+<summary>📚 Some posts written by me</summary>
 
 <!-- BLOG-POST-LIST:START -->
  - [💫 Creating Your First Tauri App with React: A Beginner&#39;s Guide ](https://dev.to/dubisdev/creating-your-first-tauri-app-with-react-a-beginners-guide-3eb2) <br/> 
@@ -54,18 +64,3 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-<details>
-<summary>✅ Todoist Stats</summary>
-<br/>
-  
-<!-- TODO-IST:START -->
-🏆  20,777 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 3,512 tasks so far           
-⏳  Longest streak is 24 days
-<!-- TODO-IST:END -->
-
-</details>
-
-
