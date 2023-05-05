@@ -56,11 +56,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#156](https://github.com/tauri-apps/awesome-tauri/pull/156) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
-2. 💪 Opened PR [#39](https://github.com/spoo-bar/code-with-todoist/pull/39) in [spoo-bar/code-with-todoist](https://github.com/spoo-bar/code-with-todoist)
-3. 💪 Opened PR [#156](https://github.com/pwltr/tauthy/pull/156) in [pwltr/tauthy](https://github.com/pwltr/tauthy)
-4. 💪 Opened PR [#49](https://github.com/lencx/nofwl/pull/49) in [lencx/nofwl](https://github.com/lencx/nofwl)
-5. 💪 Opened PR [#151](https://github.com/tauri-apps/awesome-tauri/pull/151) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
+1. ❗️ Opened issue [#6870](https://github.com/tauri-apps/tauri/issues/6870) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+2. 💪 Opened PR [#156](https://github.com/tauri-apps/awesome-tauri/pull/156) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
+3. 💪 Opened PR [#39](https://github.com/spoo-bar/code-with-todoist/pull/39) in [spoo-bar/code-with-todoist](https://github.com/spoo-bar/code-with-todoist)
+4. 💪 Opened PR [#156](https://github.com/pwltr/tauthy/pull/156) in [pwltr/tauthy](https://github.com/pwltr/tauthy)
+5. 💪 Opened PR [#49](https://github.com/lencx/nofwl/pull/49) in [lencx/nofwl](https://github.com/lencx/nofwl)
 <!--END_SECTION:activity-->
 
 </details>
