@@ -32,9 +32,9 @@
 <summary>✨ My Apps</summary>
 <br/>
 
-- [**RunMath**](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows
-- [**Light Draw**](https://github.com/dubisdev/lightdraw) - Lightweight drawing app for Windows
-- [**QuickGPT**](https://github.com/dubisdev/QuickGPT) - AI assistant based on GPT models for Windows
+- [**RunMath**](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows ![runmath stars](https://img.shields.io/github/stars/dubisdev/runmath?style=social)
+- [**Light Draw**](https://github.com/dubisdev/lightdraw) - Lightweight drawing app for Windows ![lightdraw stars](https://img.shields.io/github/stars/dubisdev/lightdraw?style=social)
+- [**QuickGPT**](https://github.com/dubisdev/QuickGPT) - AI assistant based on GPT models for Windows ![quickgpt stars](https://img.shields.io/github/stars/dubisdev/quickgpt?style=social)
 
 </details>
 
