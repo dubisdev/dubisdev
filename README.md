@@ -35,6 +35,7 @@
 - [**RunMath**](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows ![runmath stars](https://img.shields.io/github/stars/dubisdev/runmath?style=social)
 - [**Light Draw**](https://github.com/dubisdev/lightdraw) - Lightweight drawing app for Windows ![lightdraw stars](https://img.shields.io/github/stars/dubisdev/lightdraw?style=social)
 - [**QuickGPT**](https://github.com/dubisdev/QuickGPT) - AI assistant based on GPT models for Windows ![quickgpt stars](https://img.shields.io/github/stars/dubisdev/quickgpt?style=social)
+- [**Pyground**](https://github.com/dubisdev/pyground) - A web-based playground for python ![pyground stars](https://img.shields.io/github/stars/dubisdev/pyground?style=social)
 
 </details>
 
