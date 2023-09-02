@@ -57,9 +57,9 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#666](https://github.com/cerebroapp/cerebro/issues/666#issuecomment-1682886655) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-2. 💪 Opened PR [#156](https://github.com/tauri-apps/awesome-tauri/pull/156) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
-3. 💪 Opened PR [#39](https://github.com/spoo-bar/code-with-todoist/pull/39) in [spoo-bar/code-with-todoist](https://github.com/spoo-bar/code-with-todoist)
+1. 🔒 Closed issue [#1](https://github.com/RokiiApp/rokii/issues/1) in [RokiiApp/rokii](https://github.com/RokiiApp/rokii)
+2. 🗣 Commented on [#1](https://github.com/RokiiApp/rokii/issues/1#issuecomment-1703856346) in [RokiiApp/rokii](https://github.com/RokiiApp/rokii)
+3. 🗣 Commented on [#666](https://github.com/cerebroapp/cerebro/issues/666#issuecomment-1682886655) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 4. 💪 Opened PR [#156](https://github.com/pwltr/tauthy/pull/156) in [pwltr/tauthy](https://github.com/pwltr/tauthy)
 5. 💪 Opened PR [#49](https://github.com/lencx/nofwl/pull/49) in [lencx/nofwl](https://github.com/lencx/nofwl)
 <!--END_SECTION:activity-->
