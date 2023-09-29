@@ -57,10 +57,10 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/RokiiApp/rokii/issues/1) in [RokiiApp/rokii](https://github.com/RokiiApp/rokii)
-2. 🗣 Commented on [#1](https://github.com/RokiiApp/rokii/issues/1#issuecomment-1703856346) in [RokiiApp/rokii](https://github.com/RokiiApp/rokii)
-3. 🗣 Commented on [#666](https://github.com/cerebroapp/cerebro/issues/666#issuecomment-1682886655) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
-4. 💪 Opened PR [#156](https://github.com/pwltr/tauthy/pull/156) in [pwltr/tauthy](https://github.com/pwltr/tauthy)
+1. 🚀 Published release [v1.0.0-store](https://github.com/dubisdev/runmath/releases/tag/v1.0.0-store) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+2. 🔒 Closed issue [#1](https://github.com/RokiiApp/rokii/issues/1) in [RokiiApp/rokii](https://github.com/RokiiApp/rokii)
+3. 🗣 Commented on [#1](https://github.com/RokiiApp/rokii/issues/1#issuecomment-1703856346) in [RokiiApp/rokii](https://github.com/RokiiApp/rokii)
+4. 🗣 Commented on [#666](https://github.com/cerebroapp/cerebro/issues/666#issuecomment-1682886655) in [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro)
 5. 💪 Opened PR [#49](https://github.com/lencx/nofwl/pull/49) in [lencx/nofwl](https://github.com/lencx/nofwl)
 <!--END_SECTION:activity-->
 
