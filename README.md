@@ -57,11 +57,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/dubisdev/cerebro-todoist/issues/19#issuecomment-1804868608) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
-2. 🗣 Commented on [#19](https://github.com/dubisdev/cerebro-todoist/issues/19#issuecomment-1804005754) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
-3. 🚀 Published release [v1.0.1-store](https://github.com/dubisdev/runmath/releases/tag/v1.0.1-store) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-4. 🚀 Published release [v1.0.0-store](https://github.com/dubisdev/runmath/releases/tag/v1.0.0-store) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-5. 🔒 Closed issue [#1](https://github.com/RokiiApp/rokii/issues/1) in [RokiiApp/rokii](https://github.com/RokiiApp/rokii)
+1. 🗣 Commented on [#19](https://github.com/dubisdev/cerebro-todoist/issues/19#issuecomment-1806769616) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
+2. 🗣 Commented on [#19](https://github.com/dubisdev/cerebro-todoist/issues/19#issuecomment-1804868608) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
+3. 🗣 Commented on [#19](https://github.com/dubisdev/cerebro-todoist/issues/19#issuecomment-1804005754) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
+4. 🚀 Published release [v1.0.1-store](https://github.com/dubisdev/runmath/releases/tag/v1.0.1-store) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+5. 🚀 Published release [v1.0.0-store](https://github.com/dubisdev/runmath/releases/tag/v1.0.0-store) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
 <!--END_SECTION:activity-->
 
 </details>
