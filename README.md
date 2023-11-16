@@ -57,11 +57,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#19](https://github.com/dubisdev/cerebro-todoist/issues/19) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
-2. 🗣 Commented on [#19](https://github.com/dubisdev/cerebro-todoist/issues/19#issuecomment-1809639273) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
-3. ❗ Opened issue [#248](https://github.com/Doist/todoist-api-typescript/issues/248) in [Doist/todoist-api-typescript](https://github.com/Doist/todoist-api-typescript)
-4. 🗣 Commented on [#19](https://github.com/dubisdev/cerebro-todoist/issues/19#issuecomment-1806776083) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
-5. 🗣 Commented on [#19](https://github.com/dubisdev/cerebro-todoist/issues/19#issuecomment-1806769616) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
+1. 🗣 Commented on [#310](https://github.com/zidoro/pomatez/issues/310#issuecomment-1814910729) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+2. 🔒 Closed issue [#19](https://github.com/dubisdev/cerebro-todoist/issues/19) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
+3. 🗣 Commented on [#19](https://github.com/dubisdev/cerebro-todoist/issues/19#issuecomment-1809639273) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
+4. ❗ Opened issue [#248](https://github.com/Doist/todoist-api-typescript/issues/248) in [Doist/todoist-api-typescript](https://github.com/Doist/todoist-api-typescript)
+5. 🗣 Commented on [#19](https://github.com/dubisdev/cerebro-todoist/issues/19#issuecomment-1806776083) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
 <!--END_SECTION:activity-->
 
 </details>
