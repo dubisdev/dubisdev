@@ -57,11 +57,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#522](https://github.com/zidoro/pomatez/pull/522) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-2. 💪 Opened PR [#514](https://github.com/zidoro/pomatez/pull/514) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-3. 🗣 Commented on [#310](https://github.com/zidoro/pomatez/issues/310#issuecomment-1814948055) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-4. 🗣 Commented on [#310](https://github.com/zidoro/pomatez/issues/310#issuecomment-1814910729) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-5. 🔒 Closed issue [#19](https://github.com/dubisdev/cerebro-todoist/issues/19) in [dubisdev/cerebro-todoist](https://github.com/dubisdev/cerebro-todoist)
+1. 💪 Opened PR [#523](https://github.com/zidoro/pomatez/pull/523) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+2. 💪 Opened PR [#522](https://github.com/zidoro/pomatez/pull/522) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+3. 💪 Opened PR [#514](https://github.com/zidoro/pomatez/pull/514) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+4. 🗣 Commented on [#310](https://github.com/zidoro/pomatez/issues/310#issuecomment-1814948055) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+5. 🗣 Commented on [#310](https://github.com/zidoro/pomatez/issues/310#issuecomment-1814910729) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
 <!--END_SECTION:activity-->
 
 </details>
