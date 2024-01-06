@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#594](https://github.com/zidoro/pomatez/pull/594) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-2. 💪 Opened PR [#591](https://github.com/zidoro/pomatez/pull/591) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-3. 💪 Opened PR [#244](https://github.com/tauri-apps/awesome-tauri/pull/244) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
-4. 🗣 Commented on [#523](https://github.com/zidoro/pomatez/pull/523#issuecomment-1868512282) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-5. 🗣 Commented on [#523](https://github.com/zidoro/pomatez/pull/523#issuecomment-1852958348) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+1. 🗣 Commented on [#591](https://github.com/zidoro/pomatez/pull/591#issuecomment-1879822308) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+2. ❌ Closed PR [#591](https://github.com/zidoro/pomatez/pull/591) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+3. 💪 Opened PR [#594](https://github.com/zidoro/pomatez/pull/594) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+4. 💪 Opened PR [#591](https://github.com/zidoro/pomatez/pull/591) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+5. 💪 Opened PR [#244](https://github.com/tauri-apps/awesome-tauri/pull/244) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
 <!--END_SECTION:activity-->
 
 </details>
