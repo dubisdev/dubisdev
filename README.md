@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/dubisdev/runmath/issues/1#issuecomment-1880490208) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-2. 🗣 Commented on [#415](https://github.com/zidoro/pomatez/issues/415#issuecomment-1880091864) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-3. 🗣 Commented on [#594](https://github.com/zidoro/pomatez/pull/594#issuecomment-1879873186) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-4. 💪 Opened PR [#595](https://github.com/zidoro/pomatez/pull/595) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-5. 🗣 Commented on [#591](https://github.com/zidoro/pomatez/pull/591#issuecomment-1879822308) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+1. 🗣 Commented on [#1](https://github.com/dubisdev/runmath/issues/1#issuecomment-1880495463) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+2. 🗣 Commented on [#1](https://github.com/dubisdev/runmath/issues/1#issuecomment-1880490208) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+3. 🗣 Commented on [#415](https://github.com/zidoro/pomatez/issues/415#issuecomment-1880091864) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+4. 🗣 Commented on [#594](https://github.com/zidoro/pomatez/pull/594#issuecomment-1879873186) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+5. 💪 Opened PR [#595](https://github.com/zidoro/pomatez/pull/595) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
 <!--END_SECTION:activity-->
 
 </details>
