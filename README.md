@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/dubisdev/runmath/issues/2) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-2. 🗣 Commented on [#1](https://github.com/dubisdev/runmath/issues/1#issuecomment-1885447979) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-3. 🔒 Closed issue [#1](https://github.com/dubisdev/runmath/issues/1) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-4. 🗣 Commented on [#1](https://github.com/dubisdev/runmath/issues/1#issuecomment-1880495463) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-5. 🗣 Commented on [#1](https://github.com/dubisdev/runmath/issues/1#issuecomment-1880490208) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+1. ❗ Opened issue [#3](https://github.com/dubisdev/runmath/issues/3) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+2. ❗ Opened issue [#2](https://github.com/dubisdev/runmath/issues/2) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+3. 🗣 Commented on [#1](https://github.com/dubisdev/runmath/issues/1#issuecomment-1885447979) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+4. 🔒 Closed issue [#1](https://github.com/dubisdev/runmath/issues/1) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+5. 🗣 Commented on [#1](https://github.com/dubisdev/runmath/issues/1#issuecomment-1880495463) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
 <!--END_SECTION:activity-->
 
 </details>
