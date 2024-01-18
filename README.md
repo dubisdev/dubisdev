@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/kiimesoft/runmath/issues/8#issuecomment-1898507145) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
-2. 🔓 Reopened issue [#8](https://github.com/kiimesoft/runmath/issues/8) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
-3. 🗣 Commented on [#8](https://github.com/kiimesoft/runmath/issues/8#issuecomment-1895011029) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
-4. 🎉 Merged PR [#7](https://github.com/kiimesoft/runmath/pull/7) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
-5. 🗣 Commented on [#7](https://github.com/kiimesoft/runmath/pull/7#issuecomment-1893911745) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
+1. 🔒 Closed issue [#8](https://github.com/kiimesoft/runmath/issues/8) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
+2. 🗣 Commented on [#8](https://github.com/kiimesoft/runmath/issues/8#issuecomment-1898507145) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
+3. 🔓 Reopened issue [#8](https://github.com/kiimesoft/runmath/issues/8) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
+4. 🗣 Commented on [#8](https://github.com/kiimesoft/runmath/issues/8#issuecomment-1895011029) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
+5. 🎉 Merged PR [#7](https://github.com/kiimesoft/runmath/pull/7) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
 <!--END_SECTION:activity-->
 
 </details>
