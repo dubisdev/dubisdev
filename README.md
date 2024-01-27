@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#594](https://github.com/zidoro/pomatez/pull/594#issuecomment-1904659233) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-2. 🔒 Closed issue [#8](https://github.com/kiimesoft/runmath/issues/8) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
-3. 🗣 Commented on [#8](https://github.com/kiimesoft/runmath/issues/8#issuecomment-1898507145) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
-4. 🔓 Reopened issue [#8](https://github.com/kiimesoft/runmath/issues/8) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
-5. 🗣 Commented on [#8](https://github.com/kiimesoft/runmath/issues/8#issuecomment-1895011029) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
+1. 💪 Opened PR [#599](https://github.com/zidoro/pomatez/pull/599) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+2. 🗣 Commented on [#594](https://github.com/zidoro/pomatez/pull/594#issuecomment-1904659233) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+3. 🔒 Closed issue [#8](https://github.com/kiimesoft/runmath/issues/8) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
+4. 🗣 Commented on [#8](https://github.com/kiimesoft/runmath/issues/8#issuecomment-1898507145) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
+5. 🔓 Reopened issue [#8](https://github.com/kiimesoft/runmath/issues/8) in [kiimesoft/runmath](https://github.com/kiimesoft/runmath)
 <!--END_SECTION:activity-->
 
 </details>
