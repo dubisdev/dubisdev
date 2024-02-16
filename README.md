@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#601](https://github.com/zidoro/pomatez/pull/601#issuecomment-1937752442) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-2. 💪 Opened PR [#18](https://github.com/midudev/tailwind-animations/pull/18) in [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)
-3. 💪 Opened PR [#603](https://github.com/zidoro/pomatez/pull/603) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-4. 🗣 Commented on [#601](https://github.com/zidoro/pomatez/pull/601#issuecomment-1923025495) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-5. 💪 Opened PR [#601](https://github.com/zidoro/pomatez/pull/601) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+1. 💪 Opened PR [#1](https://github.com/RokiiApp/app/pull/1) in [RokiiApp/app](https://github.com/RokiiApp/app)
+2. 🗣 Commented on [#601](https://github.com/zidoro/pomatez/pull/601#issuecomment-1937752442) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+3. 💪 Opened PR [#18](https://github.com/midudev/tailwind-animations/pull/18) in [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)
+4. 💪 Opened PR [#603](https://github.com/zidoro/pomatez/pull/603) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+5. 🗣 Commented on [#601](https://github.com/zidoro/pomatez/pull/601#issuecomment-1923025495) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
 <!--END_SECTION:activity-->
 
 </details>
