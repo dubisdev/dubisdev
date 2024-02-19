@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/RokiiApp/app/pull/1) in [RokiiApp/app](https://github.com/RokiiApp/app)
-2. 💪 Opened PR [#1](https://github.com/RokiiApp/app/pull/1) in [RokiiApp/app](https://github.com/RokiiApp/app)
-3. 🗣 Commented on [#601](https://github.com/zidoro/pomatez/pull/601#issuecomment-1937752442) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
-4. 💪 Opened PR [#18](https://github.com/midudev/tailwind-animations/pull/18) in [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)
-5. 💪 Opened PR [#603](https://github.com/zidoro/pomatez/pull/603) in [zidoro/pomatez](https://github.com/zidoro/pomatez)
+1. 🎉 Merged PR [#4](https://github.com/RokiiApp/app/pull/4) in [RokiiApp/app](https://github.com/RokiiApp/app)
+2. 🎉 Merged PR [#3](https://github.com/RokiiApp/app/pull/3) in [RokiiApp/app](https://github.com/RokiiApp/app)
+3. 🎉 Merged PR [#2](https://github.com/RokiiApp/app/pull/2) in [RokiiApp/app](https://github.com/RokiiApp/app)
+4. 🎉 Merged PR [#1](https://github.com/RokiiApp/app/pull/1) in [RokiiApp/app](https://github.com/RokiiApp/app)
+5. 💪 Opened PR [#1](https://github.com/RokiiApp/app/pull/1) in [RokiiApp/app](https://github.com/RokiiApp/app)
 <!--END_SECTION:activity-->
 
 </details>
