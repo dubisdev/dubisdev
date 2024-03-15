@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/RokiiApp/app/pull/53) in [RokiiApp/app](https://github.com/RokiiApp/app)
-2. 🎉 Merged PR [#52](https://github.com/RokiiApp/app/pull/52) in [RokiiApp/app](https://github.com/RokiiApp/app)
-3. 🎉 Merged PR [#51](https://github.com/RokiiApp/app/pull/51) in [RokiiApp/app](https://github.com/RokiiApp/app)
-4. 🎉 Merged PR [#50](https://github.com/RokiiApp/app/pull/50) in [RokiiApp/app](https://github.com/RokiiApp/app)
-5. 🎉 Merged PR [#49](https://github.com/RokiiApp/app/pull/49) in [RokiiApp/app](https://github.com/RokiiApp/app)
+1. 🎉 Merged PR [#54](https://github.com/RokiiApp/app/pull/54) in [RokiiApp/app](https://github.com/RokiiApp/app)
+2. 🎉 Merged PR [#53](https://github.com/RokiiApp/app/pull/53) in [RokiiApp/app](https://github.com/RokiiApp/app)
+3. 🎉 Merged PR [#52](https://github.com/RokiiApp/app/pull/52) in [RokiiApp/app](https://github.com/RokiiApp/app)
+4. 🎉 Merged PR [#51](https://github.com/RokiiApp/app/pull/51) in [RokiiApp/app](https://github.com/RokiiApp/app)
+5. 🎉 Merged PR [#50](https://github.com/RokiiApp/app/pull/50) in [RokiiApp/app](https://github.com/RokiiApp/app)
 <!--END_SECTION:activity-->
 
 </details>
