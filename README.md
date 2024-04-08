@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/RokiiApp/app/pull/58) in [RokiiApp/app](https://github.com/RokiiApp/app)
-2. 🎉 Merged PR [#56](https://github.com/RokiiApp/app/pull/56) in [RokiiApp/app](https://github.com/RokiiApp/app)
-3. ❗ Opened issue [#57](https://github.com/RokiiApp/app/issues/57) in [RokiiApp/app](https://github.com/RokiiApp/app)
-4. 🎉 Merged PR [#55](https://github.com/RokiiApp/app/pull/55) in [RokiiApp/app](https://github.com/RokiiApp/app)
-5. 🎉 Merged PR [#10](https://github.com/RokiiApp/extensions/pull/10) in [RokiiApp/extensions](https://github.com/RokiiApp/extensions)
+1. ❗ Opened issue [#33](https://github.com/waymondo/vscode-todoist/issues/33) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+2. 🎉 Merged PR [#58](https://github.com/RokiiApp/app/pull/58) in [RokiiApp/app](https://github.com/RokiiApp/app)
+3. 🎉 Merged PR [#56](https://github.com/RokiiApp/app/pull/56) in [RokiiApp/app](https://github.com/RokiiApp/app)
+4. ❗ Opened issue [#57](https://github.com/RokiiApp/app/issues/57) in [RokiiApp/app](https://github.com/RokiiApp/app)
+5. 🎉 Merged PR [#55](https://github.com/RokiiApp/app/pull/55) in [RokiiApp/app](https://github.com/RokiiApp/app)
 <!--END_SECTION:activity-->
 
 </details>
