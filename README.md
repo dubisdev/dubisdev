@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/waymondo/vscode-todoist/issues/33#issuecomment-2044877138) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-2. 🗣 Commented on [#32](https://github.com/waymondo/vscode-todoist/issues/32#issuecomment-2042823037) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-3. ❗ Opened issue [#33](https://github.com/waymondo/vscode-todoist/issues/33) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-4. 🎉 Merged PR [#58](https://github.com/RokiiApp/app/pull/58) in [RokiiApp/app](https://github.com/RokiiApp/app)
-5. 🎉 Merged PR [#56](https://github.com/RokiiApp/app/pull/56) in [RokiiApp/app](https://github.com/RokiiApp/app)
+1. ❌ Closed PR [#30](https://github.com/waymondo/vscode-todoist/pull/30) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+2. 🗣 Commented on [#33](https://github.com/waymondo/vscode-todoist/issues/33#issuecomment-2044877138) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+3. 🗣 Commented on [#32](https://github.com/waymondo/vscode-todoist/issues/32#issuecomment-2042823037) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+4. ❗ Opened issue [#33](https://github.com/waymondo/vscode-todoist/issues/33) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+5. 🎉 Merged PR [#58](https://github.com/RokiiApp/app/pull/58) in [RokiiApp/app](https://github.com/RokiiApp/app)
 <!--END_SECTION:activity-->
 
 </details>
