@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.0](https://github.com/waymondo/vscode-todoist/releases/tag/v0.5.0) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-2. 🔒 Closed issue [#32](https://github.com/waymondo/vscode-todoist/issues/32) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-3. 🗣 Commented on [#32](https://github.com/waymondo/vscode-todoist/issues/32#issuecomment-2045710025) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-4. 🔒 Closed issue [#33](https://github.com/waymondo/vscode-todoist/issues/33) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-5. 🗣 Commented on [#33](https://github.com/waymondo/vscode-todoist/issues/33#issuecomment-2045629953) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+1. ❗ Opened issue [#34](https://github.com/waymondo/vscode-todoist/issues/34) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+2. 🚀 Published release [v0.5.0](https://github.com/waymondo/vscode-todoist/releases/tag/v0.5.0) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+3. 🔒 Closed issue [#32](https://github.com/waymondo/vscode-todoist/issues/32) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+4. 🗣 Commented on [#32](https://github.com/waymondo/vscode-todoist/issues/32#issuecomment-2045710025) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+5. 🔒 Closed issue [#33](https://github.com/waymondo/vscode-todoist/issues/33) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
 <!--END_SECTION:activity-->
 
 </details>
