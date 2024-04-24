@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/dubisdev/runmath/pull/9) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-2. ❗ Opened issue [#34](https://github.com/waymondo/vscode-todoist/issues/34) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-3. 🚀 Published release [v0.5.0](https://github.com/waymondo/vscode-todoist/releases/tag/v0.5.0) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-4. 🔒 Closed issue [#32](https://github.com/waymondo/vscode-todoist/issues/32) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-5. 🗣 Commented on [#32](https://github.com/waymondo/vscode-todoist/issues/32#issuecomment-2045710025) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+1. 🎉 Merged PR [#9](https://github.com/dubisdev/runmath/pull/9) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+2. 💪 Opened PR [#9](https://github.com/dubisdev/runmath/pull/9) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+3. ❗ Opened issue [#34](https://github.com/waymondo/vscode-todoist/issues/34) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+4. 🚀 Published release [v0.5.0](https://github.com/waymondo/vscode-todoist/releases/tag/v0.5.0) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+5. 🔒 Closed issue [#32](https://github.com/waymondo/vscode-todoist/issues/32) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
 <!--END_SECTION:activity-->
 
 </details>
