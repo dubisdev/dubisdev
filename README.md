@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#591](https://github.com/lmenezes/cerebro/issues/591#issuecomment-2195044744) in [lmenezes/cerebro](https://github.com/lmenezes/cerebro)
-2. 🎉 Merged PR [#9](https://github.com/dubisdev/runmath/pull/9) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-3. 💪 Opened PR [#9](https://github.com/dubisdev/runmath/pull/9) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-4. ❗ Opened issue [#34](https://github.com/waymondo/vscode-todoist/issues/34) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
-5. 🚀 Published release [v0.5.0](https://github.com/waymondo/vscode-todoist/releases/tag/v0.5.0) in [waymondo/vscode-todoist](https://github.com/waymondo/vscode-todoist)
+1. 🗣 Commented on [#48](https://github.com/RokiiApp/app/issues/48#issuecomment-2195085708) in [RokiiApp/app](https://github.com/RokiiApp/app)
+2. 🗣 Commented on [#60](https://github.com/RokiiApp/app/issues/60#issuecomment-2195084328) in [RokiiApp/app](https://github.com/RokiiApp/app)
+3. 🗣 Commented on [#591](https://github.com/lmenezes/cerebro/issues/591#issuecomment-2195044744) in [lmenezes/cerebro](https://github.com/lmenezes/cerebro)
+4. 🎉 Merged PR [#9](https://github.com/dubisdev/runmath/pull/9) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+5. 💪 Opened PR [#9](https://github.com/dubisdev/runmath/pull/9) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
 <!--END_SECTION:activity-->
 
 </details>
