@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/RokiiApp/app/issues/48#issuecomment-2195085708) in [RokiiApp/app](https://github.com/RokiiApp/app)
-2. 🗣 Commented on [#60](https://github.com/RokiiApp/app/issues/60#issuecomment-2195084328) in [RokiiApp/app](https://github.com/RokiiApp/app)
-3. 🗣 Commented on [#591](https://github.com/lmenezes/cerebro/issues/591#issuecomment-2195044744) in [lmenezes/cerebro](https://github.com/lmenezes/cerebro)
-4. 🎉 Merged PR [#9](https://github.com/dubisdev/runmath/pull/9) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-5. 💪 Opened PR [#9](https://github.com/dubisdev/runmath/pull/9) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+1. 🗣 Commented on [#60](https://github.com/RokiiApp/app/issues/60#issuecomment-2195211407) in [RokiiApp/app](https://github.com/RokiiApp/app)
+2. 🗣 Commented on [#60](https://github.com/RokiiApp/app/issues/60#issuecomment-2195209733) in [RokiiApp/app](https://github.com/RokiiApp/app)
+3. 🗣 Commented on [#48](https://github.com/RokiiApp/app/issues/48#issuecomment-2195085708) in [RokiiApp/app](https://github.com/RokiiApp/app)
+4. 🗣 Commented on [#60](https://github.com/RokiiApp/app/issues/60#issuecomment-2195084328) in [RokiiApp/app](https://github.com/RokiiApp/app)
+5. 🗣 Commented on [#591](https://github.com/lmenezes/cerebro/issues/591#issuecomment-2195044744) in [lmenezes/cerebro](https://github.com/lmenezes/cerebro)
 <!--END_SECTION:activity-->
 
 </details>
