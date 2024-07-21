@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/dubisdev/runmath/issues/10) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-2. 🗣 Commented on [#60](https://github.com/RokiiApp/app/issues/60#issuecomment-2195232916) in [RokiiApp/app](https://github.com/RokiiApp/app)
-3. 🗣 Commented on [#60](https://github.com/RokiiApp/app/issues/60#issuecomment-2195211407) in [RokiiApp/app](https://github.com/RokiiApp/app)
-4. 🗣 Commented on [#60](https://github.com/RokiiApp/app/issues/60#issuecomment-2195209733) in [RokiiApp/app](https://github.com/RokiiApp/app)
-5. 🗣 Commented on [#48](https://github.com/RokiiApp/app/issues/48#issuecomment-2195085708) in [RokiiApp/app](https://github.com/RokiiApp/app)
+1. 🔒 Closed issue [#10](https://github.com/dubisdev/runmath/issues/10) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+2. ❗ Opened issue [#10](https://github.com/dubisdev/runmath/issues/10) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+3. 🗣 Commented on [#60](https://github.com/RokiiApp/app/issues/60#issuecomment-2195232916) in [RokiiApp/app](https://github.com/RokiiApp/app)
+4. 🗣 Commented on [#60](https://github.com/RokiiApp/app/issues/60#issuecomment-2195211407) in [RokiiApp/app](https://github.com/RokiiApp/app)
+5. 🗣 Commented on [#60](https://github.com/RokiiApp/app/issues/60#issuecomment-2195209733) in [RokiiApp/app](https://github.com/RokiiApp/app)
 <!--END_SECTION:activity-->
 
 </details>
