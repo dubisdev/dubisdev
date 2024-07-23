@@ -58,11 +58,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dubisdev/key-on-screen/pull/1) in [dubisdev/key-on-screen](https://github.com/dubisdev/key-on-screen)
-2. 🎉 Merged PR [#12](https://github.com/dubisdev/runmath/pull/12) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-3. 🎉 Merged PR [#11](https://github.com/dubisdev/runmath/pull/11) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-4. 🔒 Closed issue [#10](https://github.com/dubisdev/runmath/issues/10) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-5. ❗ Opened issue [#10](https://github.com/dubisdev/runmath/issues/10) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+1. 🎉 Merged PR [#2](https://github.com/dubisdev/key-on-screen/pull/2) in [dubisdev/key-on-screen](https://github.com/dubisdev/key-on-screen)
+2. 🎉 Merged PR [#1](https://github.com/dubisdev/key-on-screen/pull/1) in [dubisdev/key-on-screen](https://github.com/dubisdev/key-on-screen)
+3. 🎉 Merged PR [#12](https://github.com/dubisdev/runmath/pull/12) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+4. 🎉 Merged PR [#11](https://github.com/dubisdev/runmath/pull/11) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+5. 🔒 Closed issue [#10](https://github.com/dubisdev/runmath/issues/10) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
 <!--END_SECTION:activity-->
 
 </details>
