@@ -60,11 +60,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#75](https://github.com/kunkunsh/kunkun/issues/75) in [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun)
-2. ❗ Opened issue [#74](https://github.com/kunkunsh/kunkun/issues/74) in [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun)
-3. 🗣 Commented on [#72](https://github.com/kunkunsh/kunkun/pull/72#issuecomment-2439479881) in [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun)
-4. 💪 Opened PR [#72](https://github.com/kunkunsh/kunkun/pull/72) in [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun)
-5. 🎉 Merged PR [#4](https://github.com/dubisdev/key-on-screen/pull/4) in [dubisdev/key-on-screen](https://github.com/dubisdev/key-on-screen)
+1. ❗ Opened issue [#77](https://github.com/kunkunsh/kunkun/issues/77) in [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun)
+2. ❗ Opened issue [#76](https://github.com/kunkunsh/kunkun/issues/76) in [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun)
+3. ❗ Opened issue [#75](https://github.com/kunkunsh/kunkun/issues/75) in [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun)
+4. ❗ Opened issue [#74](https://github.com/kunkunsh/kunkun/issues/74) in [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun)
+5. 🗣 Commented on [#72](https://github.com/kunkunsh/kunkun/pull/72#issuecomment-2439479881) in [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun)
 <!--END_SECTION:activity-->
 
 </details>
