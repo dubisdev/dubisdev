@@ -60,11 +60,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/dubisdev/runmath/pull/20) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-2. 🗣 Commented on [#19](https://github.com/dubisdev/runmath/issues/19#issuecomment-2558449586) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-3. 🔒 Closed issue [#19](https://github.com/dubisdev/runmath/issues/19) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-4. 🚀 Published release [v1.0.0](https://github.com/dubisdev/flaggyjs/releases/tag/v1.0.0) in [dubisdev/flaggyjs](https://github.com/dubisdev/flaggyjs)
-5. 🗣 Commented on [#75](https://github.com/kunkunsh/kunkun/issues/75#issuecomment-2440025063) in [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun)
+1. 🚀 Published release [v1.0.2](https://github.com/dubisdev/flaggyjs/releases/tag/v1.0.2) in [dubisdev/flaggyjs](https://github.com/dubisdev/flaggyjs)
+2. 🎉 Merged PR [#20](https://github.com/dubisdev/runmath/pull/20) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+3. 🗣 Commented on [#19](https://github.com/dubisdev/runmath/issues/19#issuecomment-2558449586) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+4. 🔒 Closed issue [#19](https://github.com/dubisdev/runmath/issues/19) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+5. 🚀 Published release [v1.0.0](https://github.com/dubisdev/flaggyjs/releases/tag/v1.0.0) in [dubisdev/flaggyjs](https://github.com/dubisdev/flaggyjs)
 <!--END_SECTION:activity-->
 
 </details>
