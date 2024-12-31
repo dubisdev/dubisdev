@@ -60,11 +60,11 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/dubisdev/trayfier/pull/2) in [dubisdev/trayfier](https://github.com/dubisdev/trayfier)
-2. 🎉 Merged PR [#1](https://github.com/dubisdev/trayfier/pull/1) in [dubisdev/trayfier](https://github.com/dubisdev/trayfier)
-3. 🚀 Published release [v1.0.2](https://github.com/dubisdev/flaggyjs/releases/tag/v1.0.2) in [dubisdev/flaggyjs](https://github.com/dubisdev/flaggyjs)
-4. 🎉 Merged PR [#20](https://github.com/dubisdev/runmath/pull/20) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
-5. 🗣 Commented on [#19](https://github.com/dubisdev/runmath/issues/19#issuecomment-2558449586) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
+1. 🎉 Merged PR [#3](https://github.com/dubisdev/trayfier/pull/3) in [dubisdev/trayfier](https://github.com/dubisdev/trayfier)
+2. 🎉 Merged PR [#2](https://github.com/dubisdev/trayfier/pull/2) in [dubisdev/trayfier](https://github.com/dubisdev/trayfier)
+3. 🎉 Merged PR [#1](https://github.com/dubisdev/trayfier/pull/1) in [dubisdev/trayfier](https://github.com/dubisdev/trayfier)
+4. 🚀 Published release [v1.0.2](https://github.com/dubisdev/flaggyjs/releases/tag/v1.0.2) in [dubisdev/flaggyjs](https://github.com/dubisdev/flaggyjs)
+5. 🎉 Merged PR [#20](https://github.com/dubisdev/runmath/pull/20) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
 <!--END_SECTION:activity-->
 
 </details>
