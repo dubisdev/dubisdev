@@ -60,7 +60,7 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#424](https://github.com/tauri-apps/awesome-tauri/pull/424) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
+1. ❗ Opened issue [#248123](https://github.com/microsoft/vscode/issues/248123) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. 🎉 Merged PR [#9](https://github.com/dubisdev/trayfier/pull/9) in [dubisdev/trayfier](https://github.com/dubisdev/trayfier)
 3. 🎉 Merged PR [#8](https://github.com/dubisdev/trayfier/pull/8) in [dubisdev/trayfier](https://github.com/dubisdev/trayfier)
 4. 🎉 Merged PR [#7](https://github.com/dubisdev/trayfier/pull/7) in [dubisdev/trayfier](https://github.com/dubisdev/trayfier)
