@@ -60,7 +60,7 @@
 <br/>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/dubisdev/todoist-widget/pull/2) in [dubisdev/todoist-widget](https://github.com/dubisdev/todoist-widget)
+1. 💪 Opened PR [#16](https://github.com/nachorsanz/complete-js-utils/pull/16) in [nachorsanz/complete-js-utils](https://github.com/nachorsanz/complete-js-utils)
 2. ❌ Closed PR [#1](https://github.com/dubisdev/todoist-widget/pull/1) in [dubisdev/todoist-widget](https://github.com/dubisdev/todoist-widget)
 3. 🎉 Merged PR [#21](https://github.com/dubisdev/runmath/pull/21) in [dubisdev/runmath](https://github.com/dubisdev/runmath)
 4. 🎉 Merged PR [#5](https://github.com/dubisdev/key-on-screen/pull/5) in [dubisdev/key-on-screen](https://github.com/dubisdev/key-on-screen)
