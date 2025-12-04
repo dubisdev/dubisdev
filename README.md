@@ -45,13 +45,13 @@
 <summary>📚 Some posts written by me</summary>
 
 <!-- BLOG-POST-LIST:START -->
- - [💫 Tauri v2: Dos nuevos conceptos que debes conocer antes de actualizar tus apps a la nueva versión ](https://dev.to/dubisdev/tauri-v2-dos-nuevos-conceptos-que-debes-conocer-antes-de-actualizar-tus-apps-a-la-nueva-version-2nn1) <br/> 
+ - [💫 Tauri v2: Dos nuevos conceptos que debes conocer antes de actualizar tus apps a la nueva versión ](https://future.forem.com/dubisdev/tauri-v2-dos-nuevos-conceptos-que-debes-conocer-antes-de-actualizar-tus-apps-a-la-nueva-version-2nn1) <br/> 
 
- - [🔥 Creating Your First Tauri App with React: A Beginner&#39;s Guide ](https://dev.to/dubisdev/creating-your-first-tauri-app-with-react-a-beginners-guide-3eb2) <br/> 
+ - [🔥 Creating Your First Tauri App with React: A Beginner&#39;s Guide ](https://future.forem.com/dubisdev/creating-your-first-tauri-app-with-react-a-beginners-guide-3eb2) <br/> 
 
- - [🔥 Cómo integrar Google Analytics en NextJS para cumplir con la Ley de Protección de Datos ](https://dev.to/dubisdev/como-integrar-google-analytics-en-nextjs-para-cumplir-con-la-ley-de-proteccion-de-datos-4c1e) <br/> 
+ - [🔥 Cómo integrar Google Analytics en NextJS para cumplir con la Ley de Protección de Datos ](https://future.forem.com/dubisdev/como-integrar-google-analytics-en-nextjs-para-cumplir-con-la-ley-de-proteccion-de-datos-4c1e) <br/> 
 
- - [💫 Connecting to MongoDB from ESB Mule ](https://dev.to/dubisdev/connecting-to-mongodb-from-esb-mule-4pa5) <br/> 
+ - [💫 Connecting to MongoDB from ESB Mule ](https://future.forem.com/dubisdev/connecting-to-mongodb-from-esb-mule-4pa5) <br/> 
 <!-- BLOG-POST-LIST:END -->
 
 </details>
