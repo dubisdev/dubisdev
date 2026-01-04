@@ -1,5 +1,20 @@
 ![header](/header.png)
-  
+
+<details open>
+<summary>✨ My Apps & Projects</summary>
+<br/>
+
+- [**KoS - Key on Screen**](https://github.com/dubisdev/key-on-screen) - ⌨️ Show in your screen the keys you are pressing ![kos stars](https://img.shields.io/github/stars/dubisdev/key-on-screen?style=social)
+- [**RunMath**](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows ![runmath stars](https://img.shields.io/github/stars/dubisdev/runmath?style=social)
+- [**QuickGPT**](https://github.com/dubisdev/QuickGPT) - AI assistant based on GPT models for Windows ![quickgpt stars](https://img.shields.io/github/stars/dubisdev/quickgpt?style=social)
+- [**TrayFier**](https://github.com/dubisdev/trayfier) - Supercharge your Windows Tray with links, files, executables... ![tryfier stars](https://img.shields.io/github/stars/dubisdev/trayfier?style=social)
+- [**Light Draw**](https://github.com/dubisdev/lightdraw) - Lightweight drawing app for Windows ![lightdraw stars](https://img.shields.io/github/stars/dubisdev/lightdraw?style=social)
+- [**Pyground**](https://github.com/dubisdev/pyground) - A web-based playground for python ![pyground stars](https://img.shields.io/github/stars/dubisdev/pyground?style=social)
+
+</details>
+
+<br/>
+
 <details>
 <summary>📊 MY GH STATS</summary>
 </br>
@@ -26,19 +41,6 @@
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-6f7580?style=flat-square&logo=prisma&logoColor=white" /> 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <br/>
-</details>
-
-<details>
-<summary>✨ My Apps</summary>
-<br/>
-
-- [**KoS - Key on Screen**](https://github.com/dubisdev/key-on-screen) - ⌨️ Show in your screen the keys you are pressing ![kos stars](https://img.shields.io/github/stars/dubisdev/key-on-screen?style=social)
-- [**RunMath**](https://github.com/dubisdev/runmath) - Keyboard-first calculator for Windows ![runmath stars](https://img.shields.io/github/stars/dubisdev/runmath?style=social)
-- [**QuickGPT**](https://github.com/dubisdev/QuickGPT) - AI assistant based on GPT models for Windows ![quickgpt stars](https://img.shields.io/github/stars/dubisdev/quickgpt?style=social)
-- [**TrayFier**](https://github.com/dubisdev/trayfier) - Supercharge your Windows Tray with links, files, executables... ![tryfier stars](https://img.shields.io/github/stars/dubisdev/trayfier?style=social)
-- [**Light Draw**](https://github.com/dubisdev/lightdraw) - Lightweight drawing app for Windows ![lightdraw stars](https://img.shields.io/github/stars/dubisdev/lightdraw?style=social)
-- [**Pyground**](https://github.com/dubisdev/pyground) - A web-based playground for python ![pyground stars](https://img.shields.io/github/stars/dubisdev/pyground?style=social)
-
 </details>
 
 <details>
