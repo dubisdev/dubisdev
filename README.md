@@ -19,9 +19,9 @@
 <summary>📊 MY GH STATS</summary>
 </br>
 <p align="center">
-  <img style="width: 43%; padding: 0px;" src="https://github-readme-stats.vercel.app/api?username=dubisdev&show_icons=true&theme=radical&hide_border=true" alt="dubisdev stats" />
-<img style="width: 43%; padding: 0px" src="https://github-readme-streak-stats.herokuapp.com/?user=dubisdev&theme=radical&hide_border=true" alt="Github Streak" />
-<img style="width: 43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubisdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img style="width: 43%; padding: 0px;" src="https://github-stats-extended.vercel.app/api?username=dubisdev&show_icons=true&theme=radical&hide_border=true" alt="dubisdev stats" />
+<img style="width: 43%; padding: 0px" src="https://streak-stats.demolab.com/?user=dubisdev&theme=radical&hide_border=true" alt="Github Streak" />
+<img style="width: 43%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dubisdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </details>
 
 <details>
